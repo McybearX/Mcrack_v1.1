@@ -2,28 +2,28 @@
 Tools hack Facebook
 
 
-#FullCommands
-          [01] pkg update && pkg upgrade
-          [02] pkg install git
-          [03] pkg install python
-          [04] pkg install python2
-          [05] pkg install nano
-          [06] pip install futures
-          [07] pip2 install futures
-          [08] pip install mechanize
-          [09] pip2 install mechanize
-          [10] pip install requests
-          [11] pip2 install requests
-          [12] git clone https://github.com/McybearX/Mcrack_v1.1
-          [13] pip2 Install ipaddress
-          [14] pip install ipaddresss
-          [15] pip2 install bs4
-          [16] pip install bs4
-          [17] pip install tqdm
-          [18] pip2 install tqdm
-          [19] cd Mcrack_v1.1
-          [20] git pull
-          [21] python2 Mcrack.py
+# Full Commands
+          $ pkg update && pkg upgrade
+          $ pkg install git
+          $ pkg install python
+          $ pkg install python2
+          $ pkg install nano
+          $ pip install futures
+          $ pip2 install futures
+          $ pip install mechanize
+          $ pip2 install mechanize
+          $ pip install requests
+          $ pip2 install requests
+          $ git clone https://github.com/McybearX/Mcrack_v1.1
+          $ pip2 Install ipaddress
+          $ pip install ipaddresss
+          $ pip2 install bs4
+          $ pip install bs4
+          $ pip install tqdm
+          $ pip2 install tqdm
+          $ cd Mcrack_v1.1
+          $ git pull
+          $ python2 Mcrack.py
           
 # INFO
       [•] jangan di perjual belikan
