@@ -8,6 +8,8 @@ Update terbaru 17 Desember 2021
           $ pkg install python
           $ pkg install python2
           $ pkg install nano
+          $ pkg install pip2
+          $ pkg install pip
           $ pip install futures
           $ pip2 install futures
           $ pip install mechanize
