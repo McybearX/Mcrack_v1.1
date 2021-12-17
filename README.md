@@ -2,7 +2,7 @@
 Tools hack Facebook
 
 
-#Full Commands
+#FullCommands
           [01] pkg update && pkg upgrade
           [02] pkg install git
           [03] pkg install python
